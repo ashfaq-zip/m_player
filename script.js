@@ -30,798 +30,798 @@ document.addEventListener('DOMContentLoaded', () => {
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/001.mp3",
-            "art": "images/001.jpg"
+            "art": "images/001.png"
         },
         {
             "title": "Al-Baqarah",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/002.mp3",
-            "art": "images/002.jpg"
+            "art": "images/002.png"
         },
         {
             "title": "Aal-E-Imran",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/003.mp3",
-            "art": "images/003.jpg"
+            "art": "images/003.png"
         },
         {
             "title": "An-Nisa",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/004.mp3",
-            "art": "images/004.jpg"
+            "art": "images/004.png"
         },
         {
             "title": "Al-Ma'idah",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/005.mp3",
-            "art": "images/005.jpg"
+            "art": "images/005.png"
         },
         {
             "title": "Al-An'am",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/006.mp3",
-            "art": "images/006.jpg"
+            "art": "images/006.png"
         },
         {
             "title": "Al-A'raf",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/007.mp3",
-            "art": "images/007.jpg"
+            "art": "images/007.png"
         },
         {
             "title": "Al-Anfal",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/008.mp3",
-            "art": "images/008.jpg"
+            "art": "images/008.png"
         },
         {
             "title": "At-Tawbah",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/009.mp3",
-            "art": "images/009.jpg"
+            "art": "images/009.png"
         },
         {
             "title": "Yunus",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/010.mp3",
-            "art": "images/010.jpg"
+            "art": "images/010.png"
         },
         {
             "title": "Hud",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/011.mp3",
-            "art": "images/011.jpg"
+            "art": "images/011.png"
         },
         {
             "title": "Yusuf",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/012.mp3",
-            "art": "images/012.jpg"
+            "art": "images/012.png"
         },
         {
             "title": "Ar-Ra'd",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/013.mp3",
-            "art": "images/013.jpg"
+            "art": "images/013.png"
         },
         {
             "title": "Ibrahim",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/014.mp3",
-            "art": "images/014.jpg"
+            "art": "images/014.png"
         },
         {
             "title": "Al-Hijr",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/015.mp3",
-            "art": "images/015.jpg"
+            "art": "images/015.png"
         },
         {
             "title": "An-Nahl",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/016.mp3",
-            "art": "images/016.jpg"
+            "art": "images/016.png"
         },
         {
             "title": "Al-Isra",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/017.mp3",
-            "art": "images/017.jpg"
+            "art": "images/017.png"
         },
         {
             "title": "Al-Kahf",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/018.mp3",
-            "art": "images/018.jpg"
+            "art": "images/018.png"
         },
         {
             "title": "Maryam",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/019.mp3",
-            "art": "images/019.jpg"
+            "art": "images/019.png"
         },
         {
             "title": "Taha",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/020.mp3",
-            "art": "images/020.jpg"
+            "art": "images/020.png"
         },
         {
             "title": "Al-Anbiya",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/021.mp3",
-            "art": "images/021.jpg"
+            "art": "images/021.png"
         },
         {
             "title": "Al-Hajj",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/022.mp3",
-            "art": "images/022.jpg"
+            "art": "images/022.png"
         },
         {
             "title": "Al-Mu'minun",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/023.mp3",
-            "art": "images/023.jpg"
+            "art": "images/023.png"
         },
         {
             "title": "An-Nur",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/024.mp3",
-            "art": "images/024.jpg"
+            "art": "images/024.png"
         },
         {
             "title": "Al-Furqan",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/025.mp3",
-            "art": "images/025.jpg"
+            "art": "images/025.png"
         },
         {
             "title": "Ash-Shu'ara",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/026.mp3",
-            "art": "images/026.jpg"
+            "art": "images/026.png"
         },
         {
             "title": "An-Naml",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/027.mp3",
-            "art": "images/027.jpg"
+            "art": "images/027.png"
         },
         {
             "title": "Al-Qasas",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/028.mp3",
-            "art": "images/028.jpg"
+            "art": "images/028.png"
         },
         {
             "title": "Al-Ankabut",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/029.mp3",
-            "art": "images/029.jpg"
+            "art": "images/029.png"
         },
         {
             "title": "Ar-Rum",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/030.mp3",
-            "art": "images/030.jpg"
+            "art": "images/030.png"
         },
         {
             "title": "Luqman",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/031.mp3",
-            "art": "images/031.jpg"
+            "art": "images/031.png"
         },
         {
             "title": "As-Sajda",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/032.mp3",
-            "art": "images/032.jpg"
+            "art": "images/032.png"
         },
         {
             "title": "Al-Ahzab",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/033.mp3",
-            "art": "images/033.jpg"
+            "art": "images/033.png"
         },
         {
             "title": "Saba",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/034.mp3",
-            "art": "images/034.jpg"
+            "art": "images/034.png"
         },
         {
             "title": "Fatir",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/035.mp3",
-            "art": "images/035.jpg"
+            "art": "images/035.png"
         },
         {
             "title": "Ya-Sin",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/036.mp3",
-            "art": "images/036.jpg"
+            "art": "images/036.png"
         },
         {
             "title": "As-Saffat",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/037.mp3",
-            "art": "images/037.jpg"
+            "art": "images/037.png"
         },
         {
             "title": "Sad",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/038.mp3",
-            "art": "images/038.jpg"
+            "art": "images/038.png"
         },
         {
             "title": "Az-Zumar",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/039.mp3",
-            "art": "images/039.jpg"
+            "art": "images/039.png"
         },
         {
             "title": "Ghafir",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/040.mp3",
-            "art": "images/040.jpg"
+            "art": "images/040.png"
         },
         {
             "title": "Fussilat",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/041.mp3",
-            "art": "images/041.jpg"
+            "art": "images/041.png"
         },
         {
             "title": "Ash-Shura",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/042.mp3",
-            "art": "images/042.jpg"
+            "art": "images/042.png"
         },
         {
             "title": "Az-Zukhruf",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/043.mp3",
-            "art": "images/043.jpg"
+            "art": "images/043.png"
         },
         {
             "title": "Ad-Dukhan",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/044.mp3",
-            "art": "images/044.jpg"
+            "art": "images/044.png"
         },
         {
             "title": "Al-Jathiya",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/045.mp3",
-            "art": "images/045.jpg"
+            "art": "images/045.png"
         },
         {
             "title": "Al-Ahqaf",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/046.mp3",
-            "art": "images/046.jpg"
+            "art": "images/046.png"
         },
         {
             "title": "Muhammad",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/047.mp3",
-            "art": "images/047.jpg"
+            "art": "images/047.png"
         },
         {
             "title": "Al-Fath",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/048.mp3",
-            "art": "images/048.jpg"
+            "art": "images/048.png"
         },
         {
             "title": "Al-Hujurat",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/049.mp3",
-            "art": "images/049.jpg"
+            "art": "images/049.png"
         },
         {
             "title": "Qaf",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/050.mp3",
-            "art": "images/050.jpg"
+            "art": "images/050.png"
         },
         {
             "title": "Adh-Dhariyat",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/051.mp3",
-            "art": "images/051.jpg"
+            "art": "images/051.png"
         },
         {
             "title": "At-Tur",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/052.mp3",
-            "art": "images/052.jpg"
+            "art": "images/052.png"
         },
         {
             "title": "An-Najm",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/053.mp3",
-            "art": "images/053.jpg"
+            "art": "images/053.png"
         },
         {
             "title": "Al-Qamar",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/054.mp3",
-            "art": "images/054.jpg"
+            "art": "images/054.png"
         },
         {
             "title": "Ar-Rahman",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/055.mp3",
-            "art": "images/055.jpg"
+            "art": "images/055.png"
         },
         {
             "title": "Al-Waqi'a",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/056.mp3",
-            "art": "images/056.jpg"
+            "art": "images/056.png"
         },
         {
             "title": "Al-Hadid",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/057.mp3",
-            "art": "images/057.jpg"
+            "art": "images/057.png"
         },
         {
             "title": "Al-Mujadila",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/058.mp3",
-            "art": "images/058.jpg"
+            "art": "images/058.png"
         },
         {
             "title": "Al-Hashr",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/059.mp3",
-            "art": "images/059.jpg"
+            "art": "images/059.png"
         },
         {
             "title": "Al-Mumtahina",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/060.mp3",
-            "art": "images/060.jpg"
+            "art": "images/060.png"
         },
         {
             "title": "As-Saff",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/061.mp3",
-            "art": "images/061.jpg"
+            "art": "images/061.png"
         },
         {
             "title": "Al-Jumu'a",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/062.mp3",
-            "art": "images/062.jpg"
+            "art": "images/062.png"
         },
         {
             "title": "Al-Munafiqun",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/063.mp3",
-            "art": "images/063.jpg"
+            "art": "images/063.png"
         },
         {
             "title": "At-Taghabun",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/064.mp3",
-            "art": "images/064.jpg"
+            "art": "images/064.png"
         },
         {
             "title": "At-Talaq",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/065.mp3",
-            "art": "images/065.jpg"
+            "art": "images/065.png"
         },
         {
             "title": "At-Tahrim",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/066.mp3",
-            "art": "images/066.jpg"
+            "art": "images/066.png"
         },
         {
             "title": "Al-Mulk",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/067.mp3",
-            "art": "images/067.jpg"
+            "art": "images/067.png"
         },
         {
             "title": "Al-Qalam",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/068.mp3",
-            "art": "images/068.jpg"
+            "art": "images/068.png"
         },
         {
             "title": "Al-Haqqah",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/069.mp3",
-            "art": "images/069.jpg"
+            "art": "images/069.png"
         },
         {
             "title": "Al-Ma'arij",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/070.mp3",
-            "art": "images/070.jpg"
+            "art": "images/070.png"
         },
         {
             "title": "Nuh",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/071.mp3",
-            "art": "images/071.jpg"
+            "art": "images/071.png"
         },
         {
             "title": "Al-Jinn",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/072.mp3",
-            "art": "images/072.jpg"
+            "art": "images/072.png"
         },
         {
             "title": "Al-Muzzammil",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/073.mp3",
-            "art": "images/073.jpg"
+            "art": "images/073.png"
         },
         {
             "title": "Al-Muddathir",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/074.mp3",
-            "art": "images/074.jpg"
+            "art": "images/074.png"
         },
         {
             "title": "Al-Qiyamah",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/075.mp3",
-            "art": "images/075.jpg"
+            "art": "images/075.png"
         },
         {
             "title": "Al-Insan",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/076.mp3",
-            "art": "images/076.jpg"
+            "art": "images/076.png"
         },
         {
             "title": "Al-Mursalat",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/077.mp3",
-            "art": "images/077.jpg"
+            "art": "images/077.png"
         },
         {
             "title": "An-Naba",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/078.mp3",
-            "art": "images/078.jpg"
+            "art": "images/078.png"
         },
         {
             "title": "An-Nazi'at",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/079.mp3",
-            "art": "images/079.jpg"
+            "art": "images/079.png"
         },
         {
             "title": "Abasa",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/080.mp3",
-            "art": "images/080.jpg"
+            "art": "images/080.png"
         },
         {
             "title": "At-Takwir",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/081.mp3",
-            "art": "images/081.jpg"
+            "art": "images/081.png"
         },
         {
             "title": "Al-Infitar",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/082.mp3",
-            "art": "images/082.jpg"
+            "art": "images/082.png"
         },
         {
             "title": "Al-Mutaffifin",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/083.mp3",
-            "art": "images/083.jpg"
+            "art": "images/083.png"
         },
         {
             "title": "Al-Inshiqaq",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/084.mp3",
-            "art": "images/084.jpg"
+            "art": "images/084.png"
         },
         {
             "title": "Al-Buruj",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/085.mp3",
-            "art": "images/085.jpg"
+            "art": "images/085.png"
         },
         {
             "title": "At-Tariq",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/086.mp3",
-            "art": "images/086.jpg"
+            "art": "images/086.png"
         },
         {
             "title": "Al-A'la",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/087.mp3",
-            "art": "images/087.jpg"
+            "art": "images/087.png"
         },
         {
             "title": "Al-Ghashiyah",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/088.mp3",
-            "art": "images/088.jpg"
+            "art": "images/088.png"
         },
         {
             "title": "Al-Fajr",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/089.mp3",
-            "art": "images/089.jpg"
+            "art": "images/089.png"
         },
         {
             "title": "Al-Balad",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/090.mp3",
-            "art": "images/090.jpg"
+            "art": "images/090.png"
         },
         {
             "title": "Ash-Shams",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/091.mp3",
-            "art": "images/091.jpg"
+            "art": "images/091.png"
         },
         {
             "title": "Al-Lail",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/092.mp3",
-            "art": "images/092.jpg"
+            "art": "images/092.png"
         },
         {
             "title": "Ad-Duha",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/093.mp3",
-            "art": "images/093.jpg"
+            "art": "images/093.png"
         },
         {
             "title": "Ash-Sharh",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/094.mp3",
-            "art": "images/094.jpg"
+            "art": "images/094.png"
         },
         {
             "title": "At-Tin",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/095.mp3",
-            "art": "images/095.jpg"
+            "art": "images/095.png"
         },
         {
             "title": "Al-Alaq",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/096.mp3",
-            "art": "images/096.jpg"
+            "art": "images/096.png"
         },
         {
             "title": "Al-Qadr",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/097.mp3",
-            "art": "images/097.jpg"
+            "art": "images/097.png"
         },
         {
             "title": "Al-Bayyinah",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/098.mp3",
-            "art": "images/098.jpg"
+            "art": "images/098.png"
         },
         {
             "title": "Az-Zalzalah",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/099.mp3",
-            "art": "images/099.jpg"
+            "art": "images/099.png"
         },
         {
             "title": "Al-Adiyat",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/100.mp3",
-            "art": "images/100.jpg"
+            "art": "images/100.png"
         },
         {
             "title": "Al-Qari'ah",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/101.mp3",
-            "art": "images/101.jpg"
+            "art": "images/101.png"
         },
         {
             "title": "At-Takathur",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/102.mp3",
-            "art": "images/102.jpg"
+            "art": "images/102.png"
         },
         {
             "title": "Al-Asr",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/103.mp3",
-            "art": "images/103.jpg"
+            "art": "images/103.png"
         },
         {
             "title": "Al-Humazah",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/104.mp3",
-            "art": "images/104.jpg"
+            "art": "images/104.png"
         },
         {
             "title": "Al-Fil",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/105.mp3",
-            "art": "images/105.jpg"
+            "art": "images/105.png"
         },
         {
             "title": "Quraysh",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/106.mp3",
-            "art": "images/106.jpg"
+            "art": "images/106.png"
         },
         {
             "title": "Al-Ma'un",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/107.mp3",
-            "art": "images/107.jpg"
+            "art": "images/107.png"
         },
         {
             "title": "Al-Kawthar",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/108.mp3",
-            "art": "images/108.jpg"
+            "art": "images/108.png"
         },
         {
             "title": "Al-Kafirun",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/109.mp3",
-            "art": "images/109.jpg"
+            "art": "images/109.png"
         },
         {
             "title": "An-Nasr",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/110.mp3",
-            "art": "images/110.jpg"
+            "art": "images/110.png"
         },
         {
             "title": "Al-Masad",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/111.mp3",
-            "art": "images/111.jpg"
+            "art": "images/111.png"
         },
         {
             "title": "Al-Ikhlas",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/112.mp3",
-            "art": "images/112.jpg"
+            "art": "images/112.png"
         },
         {
             "title": "Al-Falaq",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/113.mp3",
-            "art": "images/113.jpg"
+            "art": "images/113.png"
         },
         {
             "title": "An-Nas",
             "artist": "AbdulBaset AbdulSamad",
             "album": "The Holy Quran",
             "url": "audio/114.mp3",
-            "art": "images/114.jpg"
+            "art": "images/114.png"
         }
     ];
 
